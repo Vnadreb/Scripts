@@ -1,0 +1,76 @@
+KOHLER HUB INC. – FULL LOCKED PROPRIETARY LICENSE v1.0  
+© 2025 Kohler Hub Inc. — Authorized Developer: Adım Vnadreb. All Rights Reserved.
+
+---
+
+TÜRKÇE – TAM KORUMALI LİSANS KOŞULLARI
+
+Bu yazılım (“Yazılım”), Kohler Hub Inc.'in mülkiyetindedir ve yalnızca doğrudan yetkilendirilmiş lisanslı kullanıcılar tarafından kullanılabilir.
+
+Kullanıcı aşağıdaki tüm koşulları kabul etmek zorundadır:
+
+1. Kullanım Yetkisi  
+   Yazılım yalnızca Kohler Hub Inc. tarafından sağlanan resmi lisans ile çalışır.  
+   Lisansı olmayan kişiler bu yazılımı çalıştıramaz, inceleyemez veya dağıtamaz.
+
+2. Paylaşım ve Yayın Yasağı  
+   Yazılım başkalarına gönderilemez, paylaşılmaz, satılamaz, yeniden yüklenemez veya herhangi bir platformda yayınlanamaz.  
+   İzinsiz paylaşım halinde, FSEK ve TCK kapsamında yasal işlem başlatılır.
+
+3. Kodun Dokunulmazlığı  
+   Yazılımın herhangi bir bölümü değiştirilemez, silinemez, yeniden yapılandırılamaz.  
+   Deobfuscation, ters mühendislik, debug, hook, inject, patch, dump gibi teknik müdahaleler yasaktır.
+
+4. Ticari Olmayan Amaçlarla Dahi Kullanılamaz  
+   Yazılım yalnızca sahibinin izin verdiği ortamlarda ve cihazlarda çalıştırılabilir.  
+   Arkadaşlara gönderilmesi, test amaçlı kullanımı veya kopyalanması da yasaktır.
+
+5. Tespit ve Kayıt  
+   Yazılım, lisans kontrolü, cihaz parmak izi ve oturum bilgileri gibi sistemleri kullanabilir.  
+   İhlal tespitinde tüm veriler delil olarak kaydedilir.
+
+6. Yasal Yaptırımlar  
+   Her ihlal, 5846 sayılı Fikir ve Sanat Eserleri Kanunu, Türk Ceza Kanunu ve uluslararası fikri mülkiyet sözleşmeleri kapsamında suç teşkil eder.
+
+---
+
+ENGLISH – FULL PROTECTION LICENSE TERMS
+
+This software ("Software") is the exclusive property of Kohler Hub Inc. and may only be used by authorized, licensed users.
+
+Use of this software is subject to the following legal conditions:
+
+1. Authorized Use Only  
+   The software may only run with an official license key provided by Kohler Hub Inc.  
+   Without a license, the software may not be used, tested, inspected or operated.
+
+2. Strict Non-Distribution  
+   The software may not be shared, forwarded, uploaded, repackaged, published, distributed or resold.  
+   Any such act constitutes a legal violation.
+
+3. Code Integrity  
+   No part of the software may be modified, removed, or reverse-engineered.  
+   Deobfuscation, debug, hook, dump, inject, or any form of tampering is strictly forbidden.
+
+4. No Use Without Explicit Consent  
+   The software may only be used in approved environments by approved users.  
+   Any form of unauthorized usage, including for testing or research, is not permitted.
+
+5. Detection and Logging  
+   The software may use licensing verification, fingerprinting and activity logging systems.  
+   Violations will be documented and used as legal evidence.
+
+6. Legal Enforcement  
+   Any violation may result in prosecution under Turkish law and international intellectual property treaties.
+
+---
+
+UYARI / NOTICE
+
+Bu yazılım yalnızca yetkili kullanıcılar tarafından kullanılabilir.  
+İzinsiz kullanım, paylaşım veya müdahale yasal olarak suçtur.
+
+This software is licensed to authorized users only.  
+Unauthorized access, distribution or tampering is illegal and prosecutable.
+
+© 2025 Kohler Hub Inc. – Developer: Adım Vnadreb. Tüm hakları saklıdır. / All Rights Reserved.
