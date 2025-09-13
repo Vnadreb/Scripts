@@ -1,0 +1,20 @@
+SPDX-License-Identifier: Custom-KohlerHub-ReadOnly
+
+Kohler Hub LICENSE – READ ONLY
+
+Copyright (c) 2025, Kohler Hub Team. All rights reserved.
+
+This software is provided “AS IS” without any warranty of any kind, express or implied.
+By using, viewing, or accessing this software in any way, you agree to the following terms:
+
+Permissions
+- You are only permitted to read this license text.
+
+Restrictions
+- You may NOT copy, modify, merge, publish, distribute, sublicense, sell, or otherwise deal in this software or any derivative works.
+- You may NOT display or showcase this software, in original or modified form, on any platform including but not limited to YouTube.
+- You may NOT claim authorship or ownership of this software.
+- You may NOT fork, redistribute, or host this software outside this repository without explicit written permission from the copyright holder.
+- You may NOT use this software for commercial purposes or in any way that generates revenue.
+
+Any unauthorized use, distribution, or modification of this software constitutes a breach of this license and may result in legal action.
