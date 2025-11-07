@@ -1,1 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mrfritzchez/Main/refs/heads/main/obf.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mrfritzchez/Main/refs/heads/main/Main.txt"))()
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Kohler Hub",
+    Text = "We've switched to a new loader. Please don’t rely on this one, as we will delete this repository in the future.",
+    Duration = 10
+})
