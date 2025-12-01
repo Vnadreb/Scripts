@@ -17,4 +17,4 @@ showNotification(
     7
 )
 
-loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/33f4efeee7560448"))()
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/1884d94971493ed9"))()
